@@ -4,11 +4,11 @@
 | Contract Name     | Address                                    |
 |-------------------|--------------------------------------------|
 | Shields                 | `0x` |
-| EmblemWeaver            | `0x` |
-| FieldGenerator          | `0x` |
-| HardwareGenerator       | `0x` |
-| FrameGenerator          | `0x` |
-| ShieldBadgeSVGs         | `0x` |
+| EmblemWeaver            | `0x76E8c84A15B1804069Dce4Db274De2CD62A706d1` |
+| FieldGenerator          | `0xEDAF7dB429161ea4e0f3049bB6CCEAAA8d5B156e` |
+| HardwareGenerator       | `0x7a758698CD31ed72dDa68cfe8EDc291442Cb39BB` |
+| FrameGenerator          | `0xc4b13c48bF3aDB2d9EC6b736110a1a8E8B87040E` |
+| ShieldBadgeSVGs         | `0x1B99F410768BBBFDD4d8aE469B092d02015192f7` |
 
 ### Terraforms
 | Contract Name           | Address                                    |
