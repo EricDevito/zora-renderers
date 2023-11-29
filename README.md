@@ -40,4 +40,11 @@
 | NounsArt          | `0xaDeA0bE2D7fc39Fa5419AB2a2A87Ebd22db985d0` |
 
 ### CryptoPunks
+| Contract Name     | Address                                    |
+|-------------------|--------------------------------------------|
+| PunksMetadata                 | `0xC6804C0DCB082110A00356E7f70f841bc5c51Ea4` |
+
 ### CrypToadz
+| Contract Name     | Address                                    |
+|-------------------|--------------------------------------------|
+| CrypToadzMetadata                 | `0x5f05a3C8325675eFfC3108Da22E38E921B9C5F04` |
